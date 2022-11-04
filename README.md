@@ -4,8 +4,6 @@
 
 </p>
 
-
-
 <h2 aling='center'> Hi! My name is Adahi. I'm a Front-End Developer 💻 </h1>
 
 
@@ -27,6 +25,7 @@
 <br>
 <br>
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarahi93&show_icons=true&theme=transparent)
 <br>
