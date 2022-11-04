@@ -6,7 +6,7 @@
 
 
 
-<h1 aling='center'> Hi! My name is Adahi. I'm a Front-End Developer 💻 </h1>
+<h2 aling='center'> Hi! My name is Adahi. I'm a Front-End Developer 💻 </h1>
 
 <!--
 **Zarahi93/Zarahi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
