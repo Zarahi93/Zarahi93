@@ -26,7 +26,5 @@
 <br>
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarahi93&show_icons=true&theme=transparent)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarahi93&layout=compact)](https://github.com/Zarahi93)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarahi93&show_icons=true&theme=transparent)
