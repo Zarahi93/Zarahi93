@@ -15,8 +15,6 @@
 ## 💼 Technical Skills
 <br>
 <br>
-<br>
-<br>
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 <br>
 <br>
