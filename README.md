@@ -4,7 +4,8 @@
 
 </p>
 
-### Hi there 👋
+
+My name is Adahi. I'm a Front-End Developer 💻
 
 <!--
 **Zarahi93/Zarahi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
