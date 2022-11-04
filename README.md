@@ -13,7 +13,10 @@
 - 😄 Pronouns: She/Her
 
 ## 💼 Technical Skills
-
+<br>
+<br>
+<br>
+<br>
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 <br>
 <br>
@@ -24,12 +27,6 @@
 <br>
 <br>
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-<br>
-<br>
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-<br>
-<br>
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 <br>
 <br>
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
