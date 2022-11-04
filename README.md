@@ -11,7 +11,16 @@
 - 😄 Pronouns: She/Her
 
 ## 💼 Technical Skills
-
+<br>
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+<br>
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+<br>
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+<br>
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+<br>
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarahi93&layout=compact)](https://github.com/Zarahi93)
