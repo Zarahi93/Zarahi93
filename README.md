@@ -5,7 +5,8 @@
 </p>
 
 
-My name is Adahi. I'm a Front-End Developer 💻
+
+<p aling ='center'> Hi! My name is Adahi. I'm a Front-End Developer 💻</p>
 
 <!--
 **Zarahi93/Zarahi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
