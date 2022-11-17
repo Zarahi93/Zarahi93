@@ -7,7 +7,7 @@
 <h2 aling='center'> Hi! My name is Adahi. I'm a Front-End Developer 💻 </h1>
 
 
-- 🌱 I’m currently learning REAC
+- 🌱 I’m currently learning REACT
 - 😄 Pronouns: She/Her
 
 ## 💼 Technical Skills
