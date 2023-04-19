@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning REACT
 - 😄 Pronouns: She/Her
 
-## 💼 Technical Skills
+## 💼  Skills
 
 <code><img height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"></code>
 
