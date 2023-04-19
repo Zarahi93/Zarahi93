@@ -12,23 +12,12 @@
 
 ## 💼  Skills
 
-<code><img height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"></code>
+<code><img height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"></code>  <code><img height="45" src="https://img.icons8.com/color/48/000000/javascript.png"></code>  <code><img height="45" src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png"></code>  <code><img height="45" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
 
-<code><img height="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
+<code><img height="45" src="https://img.icons8.com/color/48/000000/firebase.png"></code> <code><img height="45" src="https://img.icons8.com/color/48/000000/nodejs.png"></code> <code><img height="45" src="https://img.icons8.com/color/48/000000/git.png"></code>
 
-<code><img height="45" src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png"></code>
+<code><img height="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code> <code><img height="45" src="https://img.icons8.com/office/45/000000/figma.png"></code>
 
-<code><img height="45" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
-
-<code><img height="45" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
-
-<code><img height="45" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
-
-<code><img height="45" src="https://img.icons8.com/color/48/000000/git.png"></code>
-
-<code><img height="45" src="https://img.icons8.com/office/45/000000/figma.png"></code>
-
-<code><img height="45" src="https://img.icons8.com/color/48/000000/firebase.png"></code>
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
