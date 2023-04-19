@@ -24,7 +24,7 @@ filter, sort, search and display movie statistics.
 - **Red Social (ANIMAL PAWNET):** Together with two collaborators,
 we created a social network that allows users to post about
 animals that are up for adoption and/or whether they are
-interested in adopting. Users can register, log in, post, edit, and
+interested in adopting. Users can register, log in, make, edit, and
 delete posts. In addition to that you can like the publications and
 see how many likes each post has. 
 
